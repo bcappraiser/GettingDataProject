@@ -5,7 +5,7 @@ Getting and Cleaning Data Project which combines and aggregates data from Human 
 
 ****README for data set "tidy_data.txt"****
 
-----Brief summary description of "tidy_data.txt"----
+****Brief summary description of "tidy_data.txt"****
 "tidy_data.txt" is a data set which is derived from "Human Activity Recognition Using Smartphones
  Dataset" by Jorge L. Reyes-Ortiz, et al., downloaded from <https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>.[1]
 
