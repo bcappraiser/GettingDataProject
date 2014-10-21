@@ -1,0 +1,18 @@
+####Code book for data set "tidy_data.txt"####
+
+###For summary description of "tidy_data.txt", including citations, see README###
+
+###Technical file info###
+Structure: 180 rows of observations by 68 column/variables.
+Observations: 180; (30 subjects * 6 activity types);(ordered by variables subject and activity).
+Variables: 68 (see below for further description).
+Variable #1/Column 1: subject; there are 30 total subjects.
+Variable #2/Column 2: activity; there are six activity types (standing, sitting, laying, walking, walking_downstairs,
+		      and walking_upstairs.
+Variables #3-68/Columns 3-68: each of tidy_data[1:180,3:68] is an aggregate mean of the corresonding variable from
+the raw data by subject and activity.  Read README under the summary heading for further explanation.
+Note that the variables 3:68 represent aggregates which correspond to the following sequence of "features" in "features.txt" and variables in "X_train.txt" as well as "X_test.txt" from the raw data set: 
+
+1   2   3   4   5   6  41  42  43  44  45  46  81  82  83  84  85  86 121 122 123 124 125 126 161
+162 163 164 165 166 201 202 214 215 227 228 240 241 253 254 266 267 268 269 270 271 345 346 347 348
+349 350 424 425 426 427 428 429 503 504 516 517 529 530 542 543
