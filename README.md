@@ -29,8 +29,11 @@ There are 66 measurements of means and corresponding standard deviations selecte
 ----Technical file info----
 
 Observations: 180
+
 Variables: 68
+
 Structure: 180 rows of observations by 68 column/variables.
+
 Data details: each of tidy_data[1:180,3:68] is an aggregate mean of the corresonding variable from
 the raw data by subject and activity.  Read above under the summary heading for further explanation.
 Note that the variables 3:68 correspond to the following "features" or variables from the raw data set: 
