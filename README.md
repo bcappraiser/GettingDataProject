@@ -3,7 +3,7 @@ GettingDataProject
 
 Getting and Cleaning Data Project which combines and aggregates data from Human Activity Recognition Using Smartphone Dataset.
 
-----README for data set "tidy_data.txt"----
+****README for data set "tidy_data.txt"****
 
 ----Brief summary description of "tidy_data.txt"----
 "tidy_data.txt" is a data set which is derived from "Human Activity Recognition Using Smartphones
